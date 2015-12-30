@@ -1,13 +1,14 @@
-8e848b978ebab3100e4bfa9f6f89687c *DESCRIPTION
+571967c8c045be62153d655c44ac1017 *DESCRIPTION
 2c1c00f9d3ed9e24fa69b932b7e7aff2 *LICENSE
 8439c7d65afe46dc1caa1793ee11b27b *NAMESPACE
 31a52c860c4bac4b8292f458b2914a55 *R/RcppExports.R
-dfee1534ec512fe2dc6c72a9747a2496 *build/partial.rdb
+5370a7bada83fbfa6fbc11f7583b8c3a *build/partial.rdb
+feacab3e22044ada986647511d15fbfd *inst/COPYRIGHTS
 5ee7d55f65f83c109d2f2130152754f4 *man/TransferEntropy-package.Rd
 f48476e8c0bf71a9600e488d66c3fc1e *man/computeTE.Rd
 dafe4955f4a7bc444fcfc2c8dc3412c9 *src/Makevars
 bd24f62fa99dd7b6fcbb4306354aa570 *src/Makevars.win
-2930f9e1e7e95f88b1c72e49aa46912c *src/RcppExports.cpp
+83ba3c0e9472dfebf1a24cd2e9a2488f *src/RcppExports.cpp
 edbdc75a273d9abf3efd845acce53779 *src/ann_1.1.2/Copyright.txt
 af12805d8bdbd3c30da0186f62dd0180 *src/ann_1.1.2/License.txt
 01392b99a2fc021b2c8d479100a41944 *src/ann_1.1.2/MS_Win32/Ann.sln
@@ -46,7 +47,7 @@ b8d59ae85cf1b9591e279a05d752dc1a *src/ann_1.1.2/src/bd_tree.cpp
 27c3774fae6c89d8d21acd869054b577 *src/ann_1.1.2/src/kd_pr_search.h
 e670c78d8d6f1e00399b098b41f86f2f *src/ann_1.1.2/src/kd_search.cpp
 9f105012643b3aa1db62d8d18a652e94 *src/ann_1.1.2/src/kd_search.h
-f4099512d7650c1243fd1d7345b5d8d7 *src/ann_1.1.2/src/kd_split.cpp
+d470e7c68374b3aa0b863cbfe9b481f9 *src/ann_1.1.2/src/kd_split.cpp
 5706cb95a0d506da9fb8b6d550a21510 *src/ann_1.1.2/src/kd_split.h
 14a0bd015fafb297e491f8951479cbcc *src/ann_1.1.2/src/kd_tree.cpp
 5a02fbfbadc9448715ce662fd83ac2a1 *src/ann_1.1.2/src/kd_tree.h
@@ -67,4 +68,4 @@ cc79b7e9d01788dc7c6dfd3f6902bb74 *src/ann_1.1.2/test/test1.save
 dd9ebde5e38b3973934f69c62900b242 *src/ann_1.1.2/test/test2-query.pts
 c0d4305caf154e7d19ee09df2f55f505 *src/ann_1.1.2/test/test2.in
 373ec6270ea588370fe2bc26f149eec7 *src/ann_1.1.2/test/test2.save
-c7327e431ed1c74c38165195b846655d *src/compute_TE.cpp
+841fccf6a69ae1db9bcd23130aa0b9be *src/compute_TE.cpp

@@ -1,13 +1,13 @@
-571967c8c045be62153d655c44ac1017 *DESCRIPTION
+7b14e3d19b4d6ad95f55c9fe9ca8988b *DESCRIPTION
 2c1c00f9d3ed9e24fa69b932b7e7aff2 *LICENSE
 8439c7d65afe46dc1caa1793ee11b27b *NAMESPACE
 31a52c860c4bac4b8292f458b2914a55 *R/RcppExports.R
-5370a7bada83fbfa6fbc11f7583b8c3a *build/partial.rdb
-feacab3e22044ada986647511d15fbfd *inst/COPYRIGHTS
+da8202a21a38161db000c2cae1543b82 *build/partial.rdb
+cd7129d076504d68d0eb2bee338e7384 *inst/COPYRIGHTS
 5ee7d55f65f83c109d2f2130152754f4 *man/TransferEntropy-package.Rd
 f48476e8c0bf71a9600e488d66c3fc1e *man/computeTE.Rd
 dafe4955f4a7bc444fcfc2c8dc3412c9 *src/Makevars
-bd24f62fa99dd7b6fcbb4306354aa570 *src/Makevars.win
+84eb5ab28ea9c5e5fa63e88eeb3e983b *src/Makevars.win
 83ba3c0e9472dfebf1a24cd2e9a2488f *src/RcppExports.cpp
 edbdc75a273d9abf3efd845acce53779 *src/ann_1.1.2/Copyright.txt
 af12805d8bdbd3c30da0186f62dd0180 *src/ann_1.1.2/License.txt

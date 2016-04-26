@@ -1,11 +1,11 @@
-7b14e3d19b4d6ad95f55c9fe9ca8988b *DESCRIPTION
+67e5d8fde388a12a5f1575e2952238d0 *DESCRIPTION
 2c1c00f9d3ed9e24fa69b932b7e7aff2 *LICENSE
 8439c7d65afe46dc1caa1793ee11b27b *NAMESPACE
-31a52c860c4bac4b8292f458b2914a55 *R/RcppExports.R
-da8202a21a38161db000c2cae1543b82 *build/partial.rdb
+d1e84a19a0a4095b0fc4b60c146a3964 *R/RcppExports.R
+389ad134a69e70f5224c2fe9e1936e3f *build/partial.rdb
 cd7129d076504d68d0eb2bee338e7384 *inst/COPYRIGHTS
 5ee7d55f65f83c109d2f2130152754f4 *man/TransferEntropy-package.Rd
-f48476e8c0bf71a9600e488d66c3fc1e *man/computeTE.Rd
+81347decc48944d8d9cd261fd268bdef *man/computeTE.Rd
 dafe4955f4a7bc444fcfc2c8dc3412c9 *src/Makevars
 84eb5ab28ea9c5e5fa63e88eeb3e983b *src/Makevars.win
 83ba3c0e9472dfebf1a24cd2e9a2488f *src/RcppExports.cpp
@@ -68,4 +68,4 @@ cc79b7e9d01788dc7c6dfd3f6902bb74 *src/ann_1.1.2/test/test1.save
 dd9ebde5e38b3973934f69c62900b242 *src/ann_1.1.2/test/test2-query.pts
 c0d4305caf154e7d19ee09df2f55f505 *src/ann_1.1.2/test/test2.in
 373ec6270ea588370fe2bc26f149eec7 *src/ann_1.1.2/test/test2.save
-841fccf6a69ae1db9bcd23130aa0b9be *src/compute_TE.cpp
+b3fe99a8ef49c635686b8eb44ab2832c *src/compute_TE.cpp
